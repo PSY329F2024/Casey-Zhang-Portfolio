@@ -34,24 +34,33 @@ University of Toronto, *June 2025 (Expected)*
 How the analytic method and variables used match the question: 
 
 ### Findings 🔎
-- **Analysis 1:** Correlation between self-control and grit
+**Analysis 1:** Correlation between self-control and grit
+- <ins>Purpose:</ins> To determine whether there is a relationship between self-control and grit
+- <ins>Finding:</ins> There is statistically significant correlation (p<0.05) between self-control and grit. The direction and strength of this correlation are positive and weak (r=0.37)
+- <ins>Digestible interpretation:</ins> The higher an individual’s level of self-control, the more likely they are to have high levels of grit
 ![g1](/img/g1.png)
 
-- **Analysis 2:** Moderation analysis of gender
+**Analysis 2:** Moderation analysis of gender (male vs. female)
+- <ins>Purpose:</ins> To determine whether gender moderates the relationship between self-control and grit
+- <ins>Finding:</ins> There is no statistically significant moderation effect of gender
+- <ins>Digestible interpretation:</ins> The relationship between grit and self-control does not differ when the sample is grouped by gender
 ![g2](/img/g2.png)
 
-- **Analysis 3:** Moderation analysis of race
-- ![g2](/img/g2.png)
+**Analysis 3:** Moderation analysis of race (white vs. non-white)
+- <ins>Purpose:</ins> To determien whether race moderates the relationship between self-control and grit
+- <ins>Finding:</ins> There is no statistically significant moderation effect of race
+- <ins>Digestible interpretation:</ins> The relationship between grit and self-control does not differ when the sample is grouped by gender
+![g2](/img/g2.png)
 
 ### Impact 🌎
-**Importance:** This research offers a direction in which to devise strategies for both predicting and increasing grit, which consequently leads to higher academic success.
-
-**Benefitting groups:** Parents, educators, high schools, tutors, learning strategiests, standardized testing agencies 
-
-**Applied uses:** 
-- Based on the correlation between grit and self-control, schools should focus on tactics that increase self-control to target student levels of grit
-- Standardized tests or academic diagnostic mechanisms that try to gauge student success levels can use self-control and an indicator of grit
-- The lack of a moderation effect of either gender and race suggest that gender and race-specific interventions are unnecessary
+- **Importance:** This research offers a direction in which to devise strategies for both predicting and increasing grit, which consequently leads to higher academic success.
+- **Benefitting groups:** Parents, educators, high schools, tutors, learning strategiests, standardized testing agencies 
+- **Applied uses:** 
+  - Based on Finding 1, the correlation between grit and self-control:
+    - Schools should focus on tactics that increase self-control to target student levels of grit
+    - Standardized tests or academic diagnostic mechanisms that try to gauge student success levels can use self-control and an indicator of grit
+  - Based on Findings 2 and 3, the lack of a moderation effects of gender and race:
+    - Gender and race-specific interventions to increase levels of grit are unnecessary
 
 ### References
 
