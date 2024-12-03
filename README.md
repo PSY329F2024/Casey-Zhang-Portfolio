@@ -10,7 +10,6 @@ Hi everyone! I’m Casey, a fourth-year student in the psychology research speci
 
 ## Education 🏫
 **B.Sc.** Psychology and Criminology
-
 University of Toronto, *June 2025 (Expected)*
 
 ## PSY329 (Social Psychology Lab) Project 
