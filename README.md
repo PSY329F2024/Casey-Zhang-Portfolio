@@ -4,9 +4,9 @@
 Hi everyone! I’m Casey, a fourth-year student in the psychology research specialist program at the University of Toronto.
 
 ## About me 🧠
-Moral psychology
-Social perception
-Developmental psychology
+- Moral psychology
+- Social perception
+- Developmental psychology
 
 ## Education
 **B.Sc.** Psychology and Criminology
