@@ -13,7 +13,7 @@ Hi everyone! I’m Casey, a fourth-year student in the psychology research speci
 
 University of Toronto, *June 2025 (Expected)*
 
-## PSY329 (Social Psychology Lab) Project 
+## PSY329 (Social Psychology Lab) Project 🧩
 ### Literature Background 📑
 - Grit is defined as perseverance and passion towards reaching a long-term goal (Duckworth et al., 2007).
 - Grit has been found to be a predictor of academic success (Calo et al., 2022)
@@ -26,7 +26,7 @@ University of Toronto, *June 2025 (Expected)*
 - **Gap**: Do adolescents who have higher self-control possess higher levels of grit? If so, does gender moderate this relationship?
 - This question is meaningful as.......
 
-### Approach 🧩
+### Approach 🛣️
 - Dataset used: Research on Adaptive Interests, Skills, and Environments Study
   - Hoyle, R. H. (2024). Research on Adaptive Interests, Skills, and Environments (RAISE) Study, North Carolina, 2015–2019 (ICPSR 36850; Version 3). Inter-university Consortium for Political and Social Research. https://doi.org/10.3886/ICPSR36850.v3
 - Sample size: N=2104 adolescents in grades 5- 8 in North Carolina public schools during the 2014-2015 school year
