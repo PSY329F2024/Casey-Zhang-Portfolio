@@ -9,7 +9,8 @@ Hi everyone! I’m Casey, a fourth-year student in the psychology research speci
 - Developmental psychology
 
 ## Education 🏫
-**B.Sc.** Psychology and Criminology
+**B.Sc.** Psychology (Honors)
+
 University of Toronto, *June 2025 (Expected)*
 
 ## PSY329 (Social Psychology Lab) Project 
