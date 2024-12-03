@@ -1,7 +1,7 @@
 # Casey Zhang's Portfolio
 
 ## About me 📖
-Hi everyone! I’m Casey, a fourth-year student in the psychology research specialist program at the University of Toronto. I am interested in the intersections in research between social psychology, morality, and the law. In the future, I aim to pursue law school and conduct research on criminal justice procedure.
+Hi everyone! I’m Casey, a fourth-year student in the psychology research specialist program at the University of Toronto. 
 
 ## Research Interests 🧠
 - Moral psychology
