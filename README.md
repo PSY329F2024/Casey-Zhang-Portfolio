@@ -33,8 +33,24 @@ leading to an increase in attention towards the social identity factors that con
 How the analytic method and variables used match the question: 
 
 ### Findings 🔎
-- **Gap**: Analysis 1: Correlation between self-control and grit
+- **Analysis 1:** Correlation between self-control and grit
+![g1](/img/g1.png)
+
+- **Analysis 2:** Moderation analysis of gender
+![g2](/img/g2.png)
+
+- **Analysis 3:** Moderation analysis of race
+- ![g2](/img/g2.png)
 
 ### Impact 🌎
+**Importance:** This research offers a direction in which to devise strategies for both predicting and increasing grit, which consequently leads to higher academic success.
 
-![g1](/img/g1.png)
+**Benefitting groups:** Parents, educators, high schools, tutors, learning strategiests, standardized testing agencies 
+
+**Applied uses:** 
+- Based on the correlation between grit and self-control, schools should focus on tactics that increase self-control to target student levels of grit
+- Standardized tests or academic diagnostic mechanisms that try to gauge student success levels can use self-control and an indicator of grit
+- The lack of a moderation effect of either gender and race suggest that gender and race-specific interventions are unnecessary
+
+### References
+
