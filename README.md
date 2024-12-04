@@ -17,7 +17,7 @@ University of Toronto, *June 2025 (Expected)*
 ### Literature Background 📑
 - Grit is defined as *perseverance* and *passion* towards reaching a long-term goal 	<sub>(Duckworth et al., 2007)</sub>.
 - Grit has been found to be a predictor of academic success, leading to an increase in attentino towards the social identity factors that contribute to grit <sub>(Calo et al., 2022)</sub>
-- Studies have investigated the social identity factors in middle school students <sub>(Ma et al., 2020)</sub> and college students (<sub>Khoirunnisa et al., 2023)</sub>.
+- Studies have investigated the social identity factors in middle school students <sub>(Ma et al., 2020)</sub> and college students <sub>(Khoirunnisa et al., 2023)</sub>.
 - **Gap**: However, there has yet to be studies that specifically investigate the social identity factors that contribute to grit in the adolescent age group.
 
 ### Present Study 🎯
@@ -26,8 +26,8 @@ University of Toronto, *June 2025 (Expected)*
 - This question is meaningful as adolescents are in a critical period of academic development which determines the trajectory of their future professional careers. This prompts an urgency to investigate the factors that increase grit.
 
 ### Approach 🛣️
-- Dataset used: Research on Adaptive Interests, Skills, and Environments Study
-  - Hoyle, R. H. (2024). Research on Adaptive Interests, Skills, and Environments (RAISE) Study, North Carolina, 2015–2019 (ICPSR 36850; Version 3). Inter-university Consortium for Political and Social Research. https://doi.org/10.3886/ICPSR36850.v3
+- Dataset used: Research on Adaptive Interests, Skills, and Environments (RAISE) Study
+  <sub>- Hoyle, R. H. (2024). Research on Adaptive Interests, Skills, and Environments (RAISE) Study, North Carolina, 2015–2019 (ICPSR 36850; Version 3). Inter-university Consortium for Political and Social Research. https://doi.org/10.3886/ICPSR36850.v3</sub>
 - Sample size: N=2104 adolescents in grades 5- 8 in North Carolina public schools during the 2014-2015 school year
 - How data is collected in original study: A 90-minute, 247-item survey was administered via telephone to each participant.
 How the analytic method and variables used match the question: 
