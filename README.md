@@ -27,11 +27,31 @@ University of Toronto, *June 2025 (Expected)*
   - This question is meaningful as adolescents are in a critical period of academic development which determines the trajectory of their future careers. This prompts an urgency to investigate the social identity factors that increase grit in this age group.
 
 ### Approach 🛣️
-- <ins>Dataset used:</ins> Research on Adaptive Interests, Skills, and Environments (RAISE) Study <sub>(Hoyle, 2024)</sub>
+<ins>Dataset used:</ins> Research on Adaptive Interests, Skills, and Environments (RAISE) Study <sub>(Hoyle, 2024)</sub>
   - Hyperlink: https://www.icpsr.umich.edu/web/ICPSR/studies/36850/summary
-- <ins>Sample size:</ins> N=2104
-  - Sample Composition: Adolescents in grades 5- 8 in North Carolina public schools during the 2014-2015 school year
+- <ins>Sample</ins>
+  - Size: N=2104
+  - Composition: Adolescents in grades 5- 8 in North Carolina public schools during the 2014-2015 school year
+  - Demographics:
+    - Gender: 47.9% male, 52.1% female
+    - Race: 60.8% White, 26.6% Black, 6.2% American Indian/Alaska Native, 4.1% Asian, 1% Native Hawaiian/Pacific Islander
 - <ins>Method of data collection:</ins> A 90-minute, 247-item survey containing various demographic measures and scales were administered via telephone to each participant
+
+Measurements of interest:
+1. Self-control: <sub>Total Self-control Scale (Hoyle & Davission, 2016)</sub>
+  • Reliability: a=0.697 (acceptable)
+  • Number of factors= 1
+  • Factor loading range: 0.181-0.629
+  • Example item: “I am able to resist temptations”
+  • Response scale: 1 (hardly ever) – 5 (nearly always)
+
+3. Grit: Grit scale <sub>(Duckworth & Quinn, 2009)</sub>
+  • Reliability: a=0.657 (acceptable)
+  • Number of factors: 1
+  • Factor loading range: 0.258-0.720
+  • Example item: “I finish whatever I begin”
+  • Response scale: 1 (not all true) – 5 (very much true)
+
 How the analytic method and variables used match the question: 
 
 ### Findings 🔎
@@ -70,6 +90,8 @@ How the analytic method and variables used match the question:
 ### References
 - <sub>Calo, M., Judd, B., Chipchase, L., Blackstock, F., & Peiris, C. L. (2022). Grit, resilience, mindset, and academic success in physical therapist students: A cross-sectional, Multicenter Study. Physical Therapy, 102(6). https://doi.org/10.1093/ptj/pzac038</sub>
 - <sub>Duckworth, A. L., Peterson, C., Matthews, M. D., & Kelly, D. R. (2007). Grit: Perseverance and passion for long-term goals. Journal of Personality and Social Psychology, 92(6), 1087–1101. https://doi.org/10.1037/0022-3514.92.6.1087</sub>
+- <sub>Duckworth, A. L., & Quinn, P. D. (2009). Development and validation of the Short Grit Scale (GRIT–S). Journal of Personality Assessment, 91(2), 166–174. https://doi.org/10.1080/00223890802634290</sub>
 - <sub>Hoyle, R. H. (2024). Research on Adaptive Interests, Skills, and Environments (RAISE) Study, North Carolina, 2015–2019 (ICPSR 36850; Version 3). Inter-university Consortium for Political and Social Research. https://doi.org/10.3886/ICPSR36850.v3</sub>
+- <sub>Hoyle, R. H., & Davisson, E. K. (2016). Varieties of self-control and their personality correlates. In K. D. Vohs & R. F. Baumeister (Eds.), Handbook of self-regulation: Research, theory, and applications (3rd ed., pp. 396-413). New York: Guilford Press.</sub>
 - <sub>Khoirunnisa, R. N., Eva, N., & Rahmawati, H. (2023). Grit in college students: Literature review. Jurnal Psikologi Teori Dan Terapan, 14(2), 237–251. https://doi.org/10.26740/jptt.v14n2.p237-251</sub>
 - <sub>Ma, C., Ma, Y., & Lan, X. (2020). The moderating role of social identity and grit in the association between parental control and school adjustment in Chinese middle school students. Frontiers in Psychology, 11. https://doi.org/10.3389/fpsyg.2020.00677</sub>
