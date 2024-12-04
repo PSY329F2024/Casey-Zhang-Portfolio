@@ -10,7 +10,7 @@ Hi everyone! I’m Casey, a fourth-year student in the psychology research speci
 - Developmental psychology👶🏻
 
 ## Education 🏫
-**B.Sc.** Psychology (Honors)
+**B.Sc.** Psychology & Criminology and Socio-legal Studies
 
 University of Toronto, *June 2025 (Expected)*
 
@@ -18,13 +18,13 @@ University of Toronto, *June 2025 (Expected)*
 ### Literature Background 📑
 - Grit is defined as perseverance and passion towards reaching a long-term goal 	<sub>(Duckworth et al., 2007)</sub>.
 - The character trait has been found to be a predictor of academic success, leading to an increase in attention towards the social identity factors that contribute to grit <sub>(Calo et al., 2022)</sub>.
-- Studies have investigated the social identity factors in middle school students <sub>(Ma et al., 2020)</sub> and college students <sub>(Khoirunnisa et al., 2023)</sub>.
+- Studies have investigated the social identity determinants of grit in middle school students <sub>(Ma et al., 2020)</sub> and college students <sub>(Khoirunnisa et al., 2023)</sub>.
 - <ins>Gap:</ins> However, there has yet to be studies that specifically investigate the social identity factors that contribute to grit in the adolescent age group.
 
 ### Present Study 🎯
 - The present study has two aims. First, it seeks to investigate whether self-control as a social identity factor is associated with grit. Second, it explores two potential moderators of this relationship, gender and race.
-- <ins>Research Question:</ins> Do adolescents who have higher self-control possess higher levels of grit? If so, does gender and race moderate this relationship?
-  - This question is meaningful as adolescents are in a critical period of academic development which determines the trajectory of their future careers. This prompts an urgency to investigate the social identity factors that increase grit in this age group.
+- <ins>Research Question:</ins> Do adolescents who have higher self-control possess higher levels of grit? If so, do gender and race moderate this relationship?
+  - This question is meaningful as adolescents are in a critical period of academic development, prompting an urgency to investigate the social identity factors that increase grit in this age specific group.
 
 ### Approach 🛣️
 <ins>Dataset used:</ins> Research on Adaptive Interests, Skills, and Environments (RAISE) Study <sub>(Hoyle, 2024)</sub>
@@ -35,18 +35,18 @@ University of Toronto, *June 2025 (Expected)*
   - Demographics:
     - Gender: 47.9% male, 52.1% female
     - Race: 60.8% White, 26.6% Black, 6.2% American Indian/Alaska Native, 4.1% Asian, 1% Native Hawaiian/Pacific Islander
-- <ins>Method of data collection:</ins> A 90-minute, 247-item survey containing various demographic measures and scales were administered via telephone to each participant
+- <ins>Method of data collection:</ins> A 90-minute, 247-item survey containing various demographic measures and scales were administered via telephone to each participant.
 
-Measurements of interest:
-1. Self-control: <sub>Total Self-control Scale (Hoyle & Davission, 2016)</sub>
-- Example item: “I am able to resist temptations”
-- Response scale: *1 (hardly ever) – 5 (nearly always)*
-- <sub><ins>Details:</ins> Reliability: a=0.697 (acceptable); Number of factors= 1; Factor loading range: 0.181-0.629</sub>
+<ins>Measurements of interest:</ins>
+- Self-control: Total Self-control Scale <sub>(Hoyle & Davission, 2016)</sub>
+  - Example item: “I am able to resist temptations”
+  - Response scale: *1 (hardly ever) – 5 (nearly always)*
+  - <sub><ins>Details:</ins> Reliability: a=0.697 (acceptable); Number of factors= 1; Factor loading range: 0.181-0.629</sub>
 
-3. Grit: Grit scale <sub>(Duckworth & Quinn, 2009)</sub>
-- Example item: “I finish whatever I begin”
-- Response scale: *1 (not all true) – 5 (very much true)*
-- <sub><ins>Details:</ins> Reliability: a=0.657 (acceptable); Number of factors: 1; Factor loading range: 0.258-0.720</sub>
+- Grit: Grit scale <sub>(Duckworth & Quinn, 2009)</sub>
+  - Example item: “I finish whatever I begin”
+  - Response scale: *1 (not all true) – 5 (very much true)*
+  - <sub><ins>Details:</ins> Reliability: a=0.657 (acceptable); Number of factors: 1; Factor loading range: 0.258-0.720</sub>
 
 How the analytic method and variables used match the question: 
 
