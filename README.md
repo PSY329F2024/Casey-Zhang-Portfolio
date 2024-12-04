@@ -16,8 +16,8 @@ University of Toronto, *June 2025 (Expected)*
 ## PSY329 (Social Psychology Lab) Project 🧩
 ### Literature Background 📑
 - Grit is defined as *perseverance* and *passion* towards reaching a long-term goal 	<sub>(Duckworth et al., 2007)</sub>.
-- Grit has been found to be a predictor of academic success, leading to an increase in attentino towards the social identity factors that contribute to grit </sub>(Calo et al., 2022)</sub>
-- Studies have investigated the social identity factors in middle school students </sub>(Ma et al., 2020)</sub> and college students (</sub>Khoirunnisa et al., 2023)</sub>.
+- Grit has been found to be a predictor of academic success, leading to an increase in attentino towards the social identity factors that contribute to grit <sub>(Calo et al., 2022)</sub>
+- Studies have investigated the social identity factors in middle school students <sub>(Ma et al., 2020)</sub> and college students (<sub>Khoirunnisa et al., 2023)</sub>.
 - **Gap**: However, there has yet to be studies that specifically investigate the social identity factors that contribute to grit in the adolescent age group.
 
 ### Present Study 🎯
