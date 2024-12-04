@@ -39,18 +39,14 @@ University of Toronto, *June 2025 (Expected)*
 
 Measurements of interest:
 1. Self-control: <sub>Total Self-control Scale (Hoyle & Davission, 2016)</sub>
-  • Reliability: a=0.697 (acceptable)
-  • Number of factors= 1
-  • Factor loading range: 0.181-0.629
-  • Example item: “I am able to resist temptations”
-  • Response scale: 1 (hardly ever) – 5 (nearly always)
+- Example item: “I am able to resist temptations”
+- Response scale: *1 (hardly ever) – 5 (nearly always)*
+- <sub><ins>Details:</ins> Reliability: a=0.697 (acceptable); Number of factors= 1; Factor loading range: 0.181-0.629</sub>
 
 3. Grit: Grit scale <sub>(Duckworth & Quinn, 2009)</sub>
-  • Reliability: a=0.657 (acceptable)
-  • Number of factors: 1
-  • Factor loading range: 0.258-0.720
-  • Example item: “I finish whatever I begin”
-  • Response scale: 1 (not all true) – 5 (very much true)
+- Example item: “I finish whatever I begin”
+- Response scale: *1 (not all true) – 5 (very much true)*
+- <sub><ins>Details:</ins> Reliability: a=0.657 (acceptable); Number of factors: 1; Factor loading range: 0.258-0.720</sub>
 
 How the analytic method and variables used match the question: 
 
