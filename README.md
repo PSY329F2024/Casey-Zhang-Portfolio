@@ -22,7 +22,7 @@ University of Toronto, *June 2025 (Expected)*
 - <ins>Gap:</ins> However, there has yet to be studies that specifically investigate the social identity factors that contribute to grit in the adolescent age group.
 
 ### Present Study 🎯
-- The present study has two aims. First, it seeks to investigate whether self-control as a social identity factor is associated with grit. Second, it explores two potential moderators of this relationship, gender and race.
+- The present study has two aims. First, it seeks to investigate whether self-control as a social identity factor is associated with grit. Second, it explores two potential moderators of this relationship, gender and race. In other words, it looks at whether the connection depends on the person's gender and race.
 - <ins>Research Question:</ins> Do adolescents who have higher self-control possess higher levels of grit? If so, do gender and race moderate this relationship?
   - This question is meaningful as adolescents are in a critical period of academic development, prompting an urgency to investigate the social identity factors that increase grit in this age specific group.
 
@@ -37,18 +37,27 @@ University of Toronto, *June 2025 (Expected)*
     - Race: 60.8% White, 26.6% Black, 6.2% American Indian/Alaska Native, 4.1% Asian, 1% Native Hawaiian/Pacific Islander
 - <ins>Method of data collection:</ins> A 90-minute, 247-item survey containing various demographic measures and scales were administered via telephone to each participant.
 
-<ins>Measurements of interest:</ins>
+<ins>Measurements of interest & How they Match the Research Question:</ins>
 - Self-control: Total Self-control Scale <sub>(Hoyle & Davission, 2016)</sub>
   - Example item: “I am able to resist temptations”
   - Response scale: *1 (hardly ever) – 5 (nearly always)*
-  - <sub><ins>Details:</ins> Reliability: a=0.697 (acceptable); Number of factors= 1; Factor loading range: 0.181-0.629</sub>
+  - <sub><ins>Details:</ins> Reliability: a=0.697 (acceptable); Number of factors: 1; Factor loading range: 0.181-0.629</sub>
 
 - Grit: Grit scale <sub>(Duckworth & Quinn, 2009)</sub>
   - Example item: “I finish whatever I begin”
   - Response scale: *1 (not all true) – 5 (very much true)*
   - <sub><ins>Details:</ins> Reliability: a=0.657 (acceptable); Number of factors: 1; Factor loading range: 0.258-0.720</sub>
 
-How the analytic method and variables used match the question: 
+<ins>Analytic Methods & How they Match the Research Question:</ins>
+- <ins>Analysis 1:</ins> Correlation between self-control and grit
+  - <ins>Purpose:</ins> To determine whether there is a relationship between self-control and grit
+- <ins>Analysis 2:</ins> Moderation analysis of gender (male vs. female)
+  - <ins>Purpose:</ins> To determine whether gender moderates the relationship between self-control and grit
+- <ins>Analysis 3:</ins> Moderation analysis of race (white vs. non-white)
+  - <ins>Purpose:</ins> To determien whether race moderates the relationship between self-control and grit
+
+- How the analytic method and variables used match the question:
+- Correlation: Correlation between self-control and grit
 
 ### Findings 🔎
 **Analytic codes:**
@@ -56,19 +65,16 @@ How the analytic method and variables used match the question:
 - MD File: https://github.com/Caseyzhang1/PSY329-Project/blob/main/Psy329_Project.md 
 
 **Analysis 1:** Correlation between self-control and grit
-- <ins>Purpose:</ins> To determine whether there is a relationship between self-control and grit
 - <ins>Finding:</ins> There is statistically significant correlation (p<0.05) between self-control and grit. The direction and strength of this correlation are positive and weak (r=0.37)
 - <ins>Digestible interpretation:</ins> The higher an individual’s level of self-control, the more likely they are to have high levels of grit
 <img src="/img/g1.png" alt="g1" width="500">
 
 **Analysis 2:** Moderation analysis of gender (male vs. female)
-- <ins>Purpose:</ins> To determine whether gender moderates the relationship between self-control and grit
 - <ins>Finding:</ins> There is no statistically significant moderation effect of gender
 - <ins>Digestible interpretation:</ins> The relationship between grit and self-control does not differ when the sample is grouped by gender
 <img src="/img/g2.png" alt="g2" width="500">
 
 **Analysis 3:** Moderation analysis of race (white vs. non-white)
-- <ins>Purpose:</ins> To determien whether race moderates the relationship between self-control and grit
 - <ins>Finding:</ins> There is no statistically significant moderation effect of race
 - <ins>Digestible interpretation:</ins> The relationship between grit and self-control does not differ when the sample is grouped by gender
 <img src="/img/g3.png" alt="g3" width="500">
