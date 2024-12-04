@@ -17,14 +17,14 @@ University of Toronto, *June 2025 (Expected)*
 ## PSY329 (Social Psychology Lab) Project 🧩
 ### Literature Background 📑
 - Grit is defined as *perseverance* and *passion* towards reaching a long-term goal 	<sub>(Duckworth et al., 2007)</sub>.
-- Grit has been found to be a predictor of academic success, leading to an increase in attentino towards the social identity factors that contribute to grit <sub>(Calo et al., 2022)</sub>
-- Studies have investigated the social identity factors in middle school students <sub>(Ma et al., 2020)</sub> and college students <sub>(Khoirunnisa et al., 2023)</sub>.
-- **Gap**: However, there has yet to be studies that specifically investigate the social identity factors that contribute to grit in the adolescent age group.
+- Grit has been found to be a predictor of *academic success*, leading to an increase in attention towards the *social identity factors* that contribute to grit <sub>(Calo et al., 2022)</sub>
+- Studies have investigated the social identity factors in *middle school students* <sub>(Ma et al., 2020)</sub> and *college students* <sub>(Khoirunnisa et al., 2023)</sub>.
+- <ins>Gap:</ins> However, there has yet to be studies that specifically investigate the social identity factors that contribute to grit in the *adolescent age group*.
 
 ### Present Study 🎯
-- The present study seeks to investigate whether self-control as a social identity factor is associated with grit. It also explores two potential moderators of this relationship, gender and race.
-- **Gap**: Do adolescents who have higher self-control possess higher levels of grit? If so, does gender and race moderate this relationship?
-- This question is meaningful as adolescents are in a critical period of academic development which determines the trajectory of their future professional careers. This prompts an urgency to investigate the factors that increase grit.
+- The present study has two aims. First, it seeks to investigate whether self-control as a social identity factor is associated with grit. Second, it explores two potential moderators of this relationship, gender and race.
+- <ins>Research Question:</ins> Do adolescents who have higher self-control possess higher levels of grit? If so, does gender and race moderate this relationship?
+  - This question is meaningful as adolescents are in a critical period of academic development which determines the trajectory of their future professional careers. This prompts an urgency to investigate the factors that increase grit.
 
 ### Approach 🛣️
 - <ins>Dataset used:</ins> Research on Adaptive Interests, Skills, and Environments (RAISE) Study
