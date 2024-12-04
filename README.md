@@ -1,7 +1,6 @@
 # Casey Zhang's Portfolio
 
 ## About me 📖
-<img src="/img/casey.jpg" alt="casey" width="200">
 Hi everyone! I’m Casey, a fourth-year student in the psychology research specialist program at the University of Toronto. I'm interested in the interesctions between moral psychology and the law, and hope to one day conduct research on the psychology of criminal justice procedure.
 
 ## Research Interests 🧠
@@ -72,17 +71,17 @@ University of Toronto, *June 2025 (Expected)*
 **Analysis 1:** Correlation between self-control and grit
 - <ins>Finding:</ins> There is statistically significant correlation (p<0.05) between self-control and grit. The direction and strength of this correlation are positive and weak (r=0.37)
 - <ins>Digestible interpretation:</ins> The higher an individual’s level of self-control, the more likely they are to have high levels of grit
-<img src="/img/g1.png" alt="g1" width="500">
+![g1](/img/g1.jpg)
 
 **Analysis 2:** Moderation analysis of gender (male vs. female)
 - <ins>Finding:</ins> There is no statistically significant moderation effect of gender
 - <ins>Digestible interpretation:</ins> The relationship between grit and self-control does not differ when the sample is grouped by gender
-<img src="/img/g2.png" alt="g2" width="500">
+![g2](/img/g2.jpg)
 
 **Analysis 3:** Moderation analysis of race (white vs. non-white)
 - <ins>Finding:</ins> There is no statistically significant moderation effect of race
 - <ins>Digestible interpretation:</ins> The relationship between grit and self-control does not differ when the sample is grouped by gender
-<img src="/img/g3.png" alt="g3" width="500">
+![g3](/img/g3.jpg)
 
 ### Impact 🌎
 - **Importance:** This research offers a direction in which to devise strategies for both predicting and increasing grit, which consequently leads to higher academic success.
