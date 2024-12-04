@@ -2,12 +2,12 @@
 
 ## About me 📖
 <img src="/img/casey.jpg" alt="casey" width="200">
-Hi everyone! I’m Casey, a fourth-year student in the psychology research specialist program at the University of Toronto. 
+Hi everyone! I’m Casey, a fourth-year student in the psychology research specialist program at the University of Toronto. I'm interested in the interesctions in research between moral psychology and the law, and hope to one day conduct research on the psychology of criminal justice procedure.
 
 ## Research Interests 🧠
-- Moral psychology
-- Social perception
-- Developmental psychology
+- Moral psychology⚖️
+- Social perception👁️
+- Developmental psychology👶🏻
 
 ## Education 🏫
 **B.Sc.** Psychology (Honors)
