@@ -32,9 +32,6 @@ University of Toronto, *June 2025 (Expected)*
 - <ins>Sample</ins>
   - Size: N=2104
   - Composition: Adolescents in grades 5- 8 in North Carolina public schools during the 2014-2015 school year
-  - Demographics:
-    - Gender: 47.9% male, 52.1% female
-    - Race: 60.8% White, 26.6% Black, 6.2% American Indian/Alaska Native, 4.1% Asian, 1% Native Hawaiian/Pacific Islander
 - <ins>Method of data collection:</ins> A 90-minute, 247-item survey containing various demographic measures and scales were administered via telephone to each participant.
 
 <ins>Measurements of interest & How they Match the Research Question:</ins>
@@ -48,13 +45,17 @@ University of Toronto, *June 2025 (Expected)*
   - Response scale: *1 (not all true) – 5 (very much true)*
   - <sub><ins>Details:</ins> Reliability: a=0.657 (acceptable); Number of factors: 1; Factor loading range: 0.258-0.720</sub>
 
+- Demographic Variables:
+  - Gender: 47.9% male, 52.1% female
+  - Race: 60.8% White, 26.6% Black, 6.2% American Indian/Alaska Native, 4.1% Asian, 1% Native Hawaiian/Pacific Islander
+
 <ins>Analytic Methods & How they Match the Research Question:</ins>
 - <ins>Analysis 1:</ins> Correlation between self-control and grit
-  - <ins>Purpose:</ins> To determine whether there is a relationship between self-control and grit
+  - Purpose: To determine whether there is a relationship between self-control and grit
 - <ins>Analysis 2:</ins> Moderation analysis of gender (male vs. female)
-  - <ins>Purpose:</ins> To determine whether gender moderates the relationship between self-control and grit
+  - Purpose: To determine whether gender moderates the relationship between self-control and grit
 - <ins>Analysis 3:</ins> Moderation analysis of race (white vs. non-white)
-  - <ins>Purpose:</ins> To determien whether race moderates the relationship between self-control and grit
+  - Purpose: To determien whether race moderates the relationship between self-control and grit
 
 - How the analytic method and variables used match the question:
 - Correlation: Correlation between self-control and grit
