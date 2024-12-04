@@ -1,6 +1,7 @@
 # Casey Zhang's Portfolio
 
 ## About me 📖
+![casey](/img/casey.png)
 Hi everyone! I’m Casey, a fourth-year student in the psychology research specialist program at the University of Toronto. 
 
 ## Research Interests 🧠
@@ -26,10 +27,11 @@ University of Toronto, *June 2025 (Expected)*
 - This question is meaningful as adolescents are in a critical period of academic development which determines the trajectory of their future professional careers. This prompts an urgency to investigate the factors that increase grit.
 
 ### Approach 🛣️
-- Dataset used: Research on Adaptive Interests, Skills, and Environments (RAISE) Study
-  <sub>- Hoyle, R. H. (2024). Research on Adaptive Interests, Skills, and Environments (RAISE) Study, North Carolina, 2015–2019 (ICPSR 36850; Version 3). Inter-university Consortium for Political and Social Research. https://doi.org/10.3886/ICPSR36850.v3</sub>
-- Sample size: N=2104 adolescents in grades 5- 8 in North Carolina public schools during the 2014-2015 school year
-- How data is collected in original study: A 90-minute, 247-item survey was administered via telephone to each participant.
+- <ins>Dataset used:</ins> Research on Adaptive Interests, Skills, and Environments (RAISE) Study
+  - <sub>Hoyle, R. H. (2024). Research on Adaptive Interests, Skills, and Environments (RAISE) Study, North Carolina, 2015–2019 (ICPSR 36850; Version 3). Inter-university Consortium for Political and Social Research. https://doi.org/10.3886/ICPSR36850.v3</sub>
+- <ins>Sample size:</ins> N=2104
+  - Sample Composition: Adolescents in grades 5- 8 in North Carolina public schools during the 2014-2015 school year
+- <sub>Original study's method of data collection:</sub> A 90-minute, 247-item survey containing various demographic measures and scales were administered via telephone to each participant
 How the analytic method and variables used match the question: 
 
 ### Findings 🔎
