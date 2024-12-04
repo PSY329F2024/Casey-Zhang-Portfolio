@@ -71,17 +71,17 @@ University of Toronto, *June 2025 (Expected)*
 **Analysis 1:** Correlation between self-control and grit
 - <ins>Finding:</ins> There is statistically significant correlation (p<0.05) between self-control and grit. The direction and strength of this correlation are positive and weak (r=0.37)
 - <ins>Digestible interpretation:</ins> The higher an individual’s level of self-control, the more likely they are to have high levels of grit
-![g1](/img/g1.jpg)
+![g1](/img/g1.png)
 
 **Analysis 2:** Moderation analysis of gender (male vs. female)
 - <ins>Finding:</ins> There is no statistically significant moderation effect of gender
 - <ins>Digestible interpretation:</ins> The relationship between grit and self-control does not differ when the sample is grouped by gender
-![g2](/img/g2.jpg)
+![g2](/img/g2.png)
 
 **Analysis 3:** Moderation analysis of race (white vs. non-white)
 - <ins>Finding:</ins> There is no statistically significant moderation effect of race
 - <ins>Digestible interpretation:</ins> The relationship between grit and self-control does not differ when the sample is grouped by gender
-![g3](/img/g3.jpg)
+![g3](/img/g3.png)
 
 ### Impact 🌎
 - **Importance:** This research offers a direction in which to devise strategies for both predicting and increasing grit, which consequently leads to higher academic success.
