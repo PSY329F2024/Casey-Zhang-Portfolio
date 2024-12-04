@@ -46,8 +46,12 @@ University of Toronto, *June 2025 (Expected)*
   - <sub><ins>Details:</ins> Reliability: a=0.657 (acceptable); Number of factors: 1; Factor loading range: 0.258-0.720</sub>
 
 - Demographic Variables:
-  - Gender: 47.9% male, 52.1% female
-  - Race: 60.8% White, 26.6% Black, 6.2% American Indian/Alaska Native, 4.1% Asian, 1% Native Hawaiian/Pacific Islander
+  - Gender:
+    - Question: "Are you a girl or a boy?"
+    - Composition: 47.9% male, 52.1% female
+  - Race:
+    - Question: "How would you categorize yourself in terms of race?"
+    - Composition: 60.8% White, 26.6% Black, 6.2% American Indian/Alaska Native, 4.1% Asian, 1% Native Hawaiian/Pacific Islander
 
 <ins>Analytic Methods & How they Match the Research Question:</ins>
 - <ins>Analysis 1:</ins> Correlation between self-control and grit
