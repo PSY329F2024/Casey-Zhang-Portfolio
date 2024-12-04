@@ -36,21 +36,13 @@ University of Toronto, *June 2025 (Expected)*
 <ins>Measurements of interest & How they Match the Research Question:</ins>
 - Self-control: Total Self-control Scale <sub>(Hoyle & Davission, 2016)</sub>
   - Example item: “I am able to resist temptations”
-  - Response scale: *1 (hardly ever) – 5 (nearly always)*
-  - <sub><ins>Details:</ins> Reliability: a=0.697 (acceptable); Number of factors: 1; Factor loading range: 0.181-0.629</sub>
 
 - Grit: Grit scale <sub>(Duckworth & Quinn, 2009)</sub>
   - Example item: “I finish whatever I begin”
-  - Response scale: *1 (not all true) – 5 (very much true)*
-  - <sub><ins>Details:</ins> Reliability: a=0.657 (acceptable); Number of factors: 1; Factor loading range: 0.258-0.720</sub>
 
 - Demographic Variables:
-  - Gender:
-    - Question: "Are you a girl or a boy?"
-    - Composition: 47.9% male, 52.1% female
-  - Race:
-    - Question: "How would you categorize yourself in terms of race?"
-    - Composition: 60.8% White, 26.6% Black, 6.2% American Indian/Alaska Native, 4.1% Asian, 1% Native Hawaiian/Pacific Islander
+  - Gender: 47.9% male, 52.1% female
+  - Race: 60.8% White, 26.6% Black, 6.2% American Indian/Alaska Native, 4.1% Asian, 1% Native Hawaiian/Pacific Islander
 
 <ins>Analytic Methods & How they Match the Research Question:</ins>
 - <ins>Analysis 1:</ins> Correlation between self-control and grit
