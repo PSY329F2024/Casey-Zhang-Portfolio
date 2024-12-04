@@ -1,7 +1,7 @@
 # Casey Zhang's Portfolio
 
 ## About me 📖
-![casey](/img/casey.png)
+![casey](/img/casey.jpg)
 Hi everyone! I’m Casey, a fourth-year student in the psychology research specialist program at the University of Toronto. 
 
 ## Research Interests 🧠
